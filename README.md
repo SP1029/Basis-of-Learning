@@ -25,5 +25,5 @@ The project was to explore the Deep Learning field under senior students' guidan
 - Implementing an RNN cell in Python
   
 **Week 7 - 8** 
-- Getting Hands-on experience to with Deep Learning Classification problem via a [Kaggle Competition](https://twitter.com/)
+- Getting Hands-on experience to with Deep Learning Classification problem via a [Kaggle Competition](https://www.kaggle.com/competitions/spaceship-titanic)
 - Utilised the Multi-Layer Deep Neural Network constructed and successfully achieved an **Accuracy of 79.96%**
